@@ -1,1 +1,3 @@
-# Git Practice Domanskij
+﻿# Git Practice
+Строка Mykola
+Строка Mykola2
